@@ -10,4 +10,4 @@ It's a simple CRUD app that track projects with their description and budget. Th
 [JavaScript](https://github.com/Svetloslav15/Project-Rider/tree/master/JavaScript)</br>
 [PHP](https://github.com/Svetloslav15/Project-Rider/tree/master/PHP)</br>
 
-![Edit Page](blob:https://imgur.com/87fc2d5d-251a-479a-9504-fb1f54eb105d)
+![Edit Page](https://i.imgur.com/qb77ozF.png)
